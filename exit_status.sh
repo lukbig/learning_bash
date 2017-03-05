@@ -12,6 +12,7 @@ exit $E_BADARGS
 fi
 
 # exclamation mark means logical not
+# double brackets needed in order to use ||
 if [[ ! -r "$1" || ! -r "$2" ]]
 then
 	echo "files are not real"
