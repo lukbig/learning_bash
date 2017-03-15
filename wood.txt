@@ -1,3 +1,9 @@
 here is sth
 additional sth
 next line
+This line is sent to wood.txt
+No command 'something' found, did you mean:
+ Command 'vsomething' from package 'util-vserver' (universe)
+something: command not found
+This line is sent to wood.txt
+This line is sent to wood.txt
